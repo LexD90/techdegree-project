@@ -1,0 +1,15 @@
+Code written by: Lex Dunko
+2023
+
+
+This program runs a fun game that encourages a user to beat their high score.
+
+The aim of the game:
+-- To guess the number the system has chosen at random from 1 to 10.
+-- To do this in as few attempts as possible
+-- To beat your own high score.
+
+The game only accepts whole numbers from 1 to 10 when making a guess. An error message will be presented and your
+attempt will not be counted if the wrong informaiton is entered.
+
+At the end of each game, you can choose to play again (Y or N)
